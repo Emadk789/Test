@@ -1,3 +1,6 @@
 [submodule "Emadk789/Test/anotherTest"]
 	path = Emadk789/Test/anotherTest
 	url = https://github.com/Emadk789/Test.git
+[submodule "subTest"]
+	path = subTest
+	url = https://github.com/Emadk789/subTest.git
